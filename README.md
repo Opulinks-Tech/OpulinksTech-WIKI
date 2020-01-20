@@ -1,12 +1,12 @@
-![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/blob/master/opulinks_logo.png)
+![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/opulinks_logo.png)
 
-中文 | [EN](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/README-EN)
+中文 | [EN](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/README-EN)
 
-# [旺凌科技](https://github.com/Opulinks-Tech/opulinkstech-wiki/wiki)
+# [旺凌科技](github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
 
 深圳旺凌科技有限公司 (Opulinks Technology)(https://opulinks.com/zh/) 成立于2016年，是一家专业从事物联网WIFI/BLE双模芯片的研发、设计并提供整套解决方案的高新技术企业。旺凌科技设计的OPL1000芯片是一种嵌入式多标准 2.4 ghz 无线连接解决方案。它将 Wi-Fi 和蓝牙智能集成到一个单一的 SoC 中, 使物联网系统能够更轻松地进行互连设计并连接到云,并具有更高的灵活性。专为需要低功耗的新兴物联网产品应用而设计, 从零开始。它提供了业界最低的功耗、最高的性能、轻松的连接、可扩展的网络和最低的系统成本。
 
-[【点击前往主页】](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/wiki)
+[【点击前往主页】](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
 
 # 发展历程
 
@@ -16,7 +16,7 @@
 * 2017.08 - 在深圳注册成立Opulinks深圳分公司
 
 # 主要产品
-![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/blob/master/OPL1000_picture.png)
+![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/OPL1000_picture.png)
 [OPL1000 WIFI/BLE双模低功耗芯片](https://opulinks.com/zh/products/)
 
 
@@ -31,7 +31,7 @@
 * 硬件参考设计介绍：https://github.com/Opulinks-Tech/OPL1000-HDK
 * 硬件模块资料：https://github.com/Opulinks-Tech/OPL1000-HDK/tree/master/Module
 * 文档资料下载：https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Doc 
-* 微信公众号：![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/blob/master/Opulinks_WeChatOfficialAccounts.jpg)  
+* 微信公众号：![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/Opulinks_WeChatOfficialAccounts.jpg)  
 
 
 # SDK和参考设计仓库
