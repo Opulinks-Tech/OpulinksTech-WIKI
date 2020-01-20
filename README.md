@@ -26,19 +26,19 @@
 地址: 上海市静安区华山路328号御华山28楼  
 
 # 更多
-wiki主页：https://github.com/Opulinks-Tech/opulinkstech-wiki/wiki  
-OPL1000芯片数据手册：https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/OPL1000-DS-NonNDA.pdf 
-硬件参考设计介绍：https://github.com/Opulinks-Tech/OPL1000-HDK
-硬件模块资料：https://github.com/Opulinks-Tech/OPL1000-HDK/tree/master/Module
-文档资料下载：https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Doc 
-微信公众号：![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/blob/master/Opulinks_WeChatOfficialAccounts.jpg)  
+* wiki主页：https://github.com/Opulinks-Tech/opulinkstech-wiki/wiki  
+* OPL1000芯片数据手册：https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/OPL1000-DS-NonNDA.pdf 
+* 硬件参考设计介绍：https://github.com/Opulinks-Tech/OPL1000-HDK
+* 硬件模块资料：https://github.com/Opulinks-Tech/OPL1000-HDK/tree/master/Module
+* 文档资料下载：https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Doc 
+* 微信公众号：![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIFI/blob/master/Opulinks_WeChatOfficialAccounts.jpg)  
 
 
 # SDK和参考设计仓库
--[A1 SDK Github](https://github.com/Opulinks-Tech/OPL1000A1-SDK.git)
--[A2 SDK Github](https://github.com/Opulinks-Tech/OPL1000A2-SDK.git)
--[AWS cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Aws-Cloud-with-MQTT.git)
--[Coolkit cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Coolkit-Cloud-with-HTTPS.git)
--[Ali cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Ali-Cloud-with-MQTT.git)
--[Ali cloud light Github](https://github.com/Opulinks-Tech/OPL1000A2-Light-Control-Reference-Code-Ali-Cloud-with-MQTT.git)
+* [A1 SDK Github](https://github.com/Opulinks-Tech/OPL1000A1-SDK.git)
+* [A2 SDK Github](https://github.com/Opulinks-Tech/OPL1000A2-SDK.git)
+* [AWS cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Aws-Cloud-with-MQTT.git)
+* [Coolkit cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Coolkit-Cloud-with-HTTPS.git)
+* [Ali cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Ali-Cloud-with-MQTT.git)
+* [Ali cloud light Github](https://github.com/Opulinks-Tech/OPL1000A2-Light-Control-Reference-Code-Ali-Cloud-with-MQTT.git)
 
