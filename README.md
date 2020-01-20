@@ -1,4 +1,4 @@
-![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/opulinks_logo.png)
+![avatar](opulinks_logo.png)
 
 中文 | [EN](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/README-EN)
 
@@ -16,7 +16,7 @@
 * 2017.08 - 在深圳注册成立Opulinks深圳分公司
 
 # 主要产品
-![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/OPL1000_picture.png)
+![avatar](OPL1000_picture.png)
 [OPL1000 WIFI/BLE双模低功耗芯片](https://opulinks.com/zh/products/)
 
 
@@ -31,7 +31,7 @@
 * 硬件参考设计介绍：https://github.com/Opulinks-Tech/OPL1000-HDK
 * 硬件模块资料：https://github.com/Opulinks-Tech/OPL1000-HDK/tree/master/Module
 * 文档资料下载：https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Doc 
-* 微信公众号：![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/Opulinks_WeChatOfficialAccounts.jpg)  
+* 微信公众号：![avatar](Opulinks_WeChatOfficialAccounts.jpg)  
 
 
 # SDK和参考设计仓库
