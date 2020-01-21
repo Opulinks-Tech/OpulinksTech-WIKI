@@ -26,7 +26,7 @@
 * 自主研发，精准的研发路线，难以复制
 
 # 应用市场
-![Key_Selling_Point ](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/KPS.PNG)
+![Key_Selling_Point ](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/KPS.PNG)  
 推动物联网无线连接融合，整合物联网碎片化市场  
 
 # 联系我们  
