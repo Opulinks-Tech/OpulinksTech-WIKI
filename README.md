@@ -1,4 +1,4 @@
-![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/opulinks_logo.png)  
+[![avatar](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/blob/master/opulinks_logo.png)](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)  
 
 
 # [旺凌科技](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
