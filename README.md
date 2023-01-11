@@ -3,6 +3,6 @@
 
 # [旺凌科技](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
 
-深圳旺凌科技有限公司 (Opulinks Technology 成立于2015年，是一家专业从事物联网WIFI/BLE双模芯片的研发、设计并提供整套解决方案的高新技术企业。旺凌科技设计的OPL1000芯片是一种嵌入式多标准 2.4 ghz 无线连接解决方案。它将 Wi-Fi 和蓝牙智能集成到一个单一的 SoC 中, 使物联网系统能够更轻松地进行互连设计并连接到云,并具有更高的灵活性。专为需要低功耗的新兴物联网产品应用而设计, 从零开始。它提供了业界最低的功耗、最高的性能、轻松的连接、可扩展的网络和最低的系统成本。
+深圳旺淩科技有限公司 (Opulinks Technology 成立於2015年，是一家專業從事物聯網WIFI/BLE雙模晶片的研發、設計並提供整套解決方案的高新技術企業。旺淩科技設計的OPL1000晶片是一種嵌入式多標準 2.4 ghz 無線連接解決方案。它將 Wi-Fi 和藍牙智慧集成到一個單一的 SoC 中, 使物聯網系統能夠更輕鬆地進行互連設計並連接到雲,並具有更高的靈活性。專為需要低功耗的新興物聯網產品應用而設計, 從零開始。它提供了業界最低的功耗、最高的性能、輕鬆的連接、可擴展的網路和最低的系統成本。
 
-[【点击前往主页】](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
+[【點擊前往主頁】](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki)
